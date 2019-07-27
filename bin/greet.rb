@@ -5,3 +5,4 @@ require_relative "../lib/greeting.rb"
 
 puts "Hi! I'm HAL, what's your name?"
   greeting(name)
+  input
